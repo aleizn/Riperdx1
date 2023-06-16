@@ -74,7 +74,7 @@ if (command == 'multijuegos') {
             //let s = `Bienvenido al Multijuegos Aleeatorios`
 
  const templateButtonsReplyMessage = [
-{index: 1, urlButton: {displayText: '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', url: 'https://github.com/elrebelde21/The-LoliBot-MD'}},
+{index: 1, urlButton: {displayText: '𝐑𝐢𝐩𝐞𝐫𝐝𝐱𝟏', url: 'https://github.com/elrebelde21/The-LoliBot-MD'}},
 {index: 2, urlButton: {displayText: '𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢', url: 'https://www.instagram.com/ale.izn_20/'}},
 {index: 3, quickReplyButton: {displayText: '𝙄𝙣𝙞𝙘𝙞𝙖𝙧 ✨', id: '.juegos'}},
 {index: 4, quickReplyButton: {displayText: '𝙈𝙚𝙣𝙪 𝙅𝙪𝙚𝙜𝙤𝙨 🎡', id: '#juegosmenu'}},
